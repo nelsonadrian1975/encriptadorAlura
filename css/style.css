@@ -17,7 +17,7 @@ h1 {
 .main {
     margin-top: 50px;
     width: 1280;
-    height: 720px;
+    height: 500px;
     padding-top: 0px;
     padding-bottom: 0px;
     /*border: solid #000000;*/
@@ -182,13 +182,13 @@ h1 {
     border: 2px solid #0A3871;
 }
 
-footer {
-    padding-top: 20px;
+.footer {
     text-align: center;
+    color: #0A3871;
 }
 
 
-/* CSS para movil */
+/* Movil */
 
 @media (min-width: 480px) {
     
